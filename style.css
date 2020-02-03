@@ -1,3 +1,10 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+
+
 #topSpace{
     background-color: blue;
     height: 50px;
@@ -10,4 +17,20 @@ h1,h2{
     text-align: center;
 }
 
+#about{
+    text-align: center;
+}
+#contact{
+    text-align: center;
+}
 
+#footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    height: 50px;
+    padding-top: 5px;
+    margin-bottom: -6px;
+    padding-left: 610px;
+    padding-bottom: 40px;
+}
