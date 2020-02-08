@@ -12,8 +12,11 @@ body{
     padding-top: -6px;
 }
 
-#fulllogo{
-      padding-left: 600px;
+#fullLogo{
+    border-top: -10px;
+    margin-top: -10px;
+      margin-left: 300px;
+      padding-top: -10px;
 }
 
 
@@ -35,6 +38,6 @@ h1,h2{
     height: 50px;
     padding-top: 5px;
     margin-bottom: -6px;
-    padding-left: 610px;
+    padding-left: 590px;
     padding-bottom: 40px;
 }
