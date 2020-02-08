@@ -12,6 +12,10 @@ body{
     padding-top: -6px;
 }
 
+#fulllogo{
+       text-align: center;
+}
+
 
 h1,h2{
     text-align: center;
