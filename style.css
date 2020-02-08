@@ -6,7 +6,7 @@ body{
 
 
 #topSpace{
-    background-color: blue;
+    background-color: rgb(6, 170, 0);
     height: 50px;
     margin-top: -6px;
     padding-top: -6px;
@@ -31,13 +31,18 @@ h1,h2{
     text-align: center;
 }
 
+
+#festivalPic{
+    margin-left: 520px;
+}
+
 #footer{
     display: flex;
     justify-content: space-between;
-    background-color: blue;
+    background-color: rgb(6, 170, 0);
     height: 50px;
     padding-top: 5px;
-    margin-bottom: -6px;
-    padding-left: 590px;
-    padding-bottom: 40px;
+    margin-bottom: 6px;
+    padding-left: 575px;
+    padding-bottom: 80px;
 }
